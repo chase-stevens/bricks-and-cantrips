@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://bricksandcantrips.com"
 DefaultContentLanguage = "en"
 title = "Bricks & Cantrips"
 # Using theme as git submodule 
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Bricks & Cantrips" # Set a different text for the header on the home page
+  homeTitle = "Bricks And Cantrips" # Set a different text for the header on the home page
   subtitle = "Looking at Game Design One Card at a Time"
   mainSections = ["post","posts"]
   # logo = "img/bricks-and-cantrips-scratch-3.png" # Expecting square dimensions
