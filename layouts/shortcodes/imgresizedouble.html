@@ -1,0 +1,16 @@
+{{ $original_1 := .Page.Resources.GetMatch (.Get 0) }}
+{{ $options_1 := .Get 1 }}
+{{ .Scratch.Set "image_1" ($original_1.Fit $options_1) }}
+{{ $image_1 := .Scratch.Get "image_1" }}
+{{ $title_1 := .Get 2 }}
+
+{{ $original_2 := .Page.Resources.GetMatch (.Get 3) }}
+{{ $options_2 := .Get 4 }}
+{{ .Scratch.Set "image_2" ($original_2.Fit $options_2) }}
+{{ $image_2 := .Scratch.Get "image_2" }}
+{{ $title_2 := .Get 5 }}
+
+<div style="text-align: center">
+  <img src="{{ $image_1.RelPermalink }}" width="{{ $image_1.Width }}" height="{{ $image_1.Height }}" alt="{{ $title_1 }}" style="display:inline-block" />
+  <img src="{{ $image_2.RelPermalink }}" width="{{ $image_2.Width }}" height="{{ $image_2.Height }}" alt="{{ $title_2 }}" style="display:inline-block" />
+</div>

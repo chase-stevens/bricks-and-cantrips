@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bricks &amp; Cantrips</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Bricks &amp; Cantrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chasestevenspersonal&#43;bricks@gmail.com</managingEditor>
+    <webMaster>chasestevenspersonal&#43;bricks@gmail.com</webMaster>
+    <lastBuildDate>Thu, 04 Apr 2024 20:47:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To the Dear Readers of Bricks and Cantrips</title>
+      <link>http://localhost:1313/post/2024-04-04-to-the-dear-readers-of-bricks-and-cantrips/</link>
+      <pubDate>Thu, 04 Apr 2024 20:47:59 -0400</pubDate><author>chasestevenspersonal&#43;bricks@gmail.com</author>
+      <guid>http://localhost:1313/post/2024-04-04-to-the-dear-readers-of-bricks-and-cantrips/</guid>
+      <description>Welcome! I hope you found it okay.&#xA;I would like to introduce you to Bricks &amp;amp; Cantrips, a blog dedicated to game design within card games. Popular topics will run the gamut from stalwarts of the genre like Magic the Gathering and Slay the Spire to the classics like Poker and Uno. If it has cards and is a game, we can take a look.&#xA;What is it about card games that makes them so fun to play?</description>
+    </item>
+  </channel>
+</rss>

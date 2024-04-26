@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bricks &amp; Cantrips</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bricks &amp; Cantrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chasestevenspersonal&#43;bricks@gmail.com</managingEditor>
+    <webMaster>chasestevenspersonal&#43;bricks@gmail.com</webMaster>
+    <lastBuildDate>Fri, 12 Apr 2024 20:47:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wheat from the Chaff: Top Five Hearthstone Mechanics</title>
+      <link>http://localhost:1313/posts/2024-04-12-favorite-hearthstone-mechanics/</link>
+      <pubDate>Fri, 12 Apr 2024 20:47:59 -0400</pubDate><author>chasestevenspersonal&#43;bricks@gmail.com</author>
+      <guid>http://localhost:1313/posts/2024-04-12-favorite-hearthstone-mechanics/</guid>
+      <description>Welcome to this edition of Wheat from the Chaff, where we take a look at a game and highlight unique and fun mechanics and designs. For this post, I&amp;rsquo;m taking a look at Hearthstone, the digital collectible card game set in the Warcraft universe.&#xA;I have played Hearthstone since before the beta, putting together decks in tabletop simulator-esque programs before finally getting my hands on some real packs. It’s an absolute juggernaut, being set in the Warcraft universe and having the backing of one of the largest game studios in the world.</description>
+    </item>
+    <item>
+      <title>To the Dear Readers of Bricks and Cantrips</title>
+      <link>http://localhost:1313/post/2024-04-04-to-the-dear-readers-of-bricks-and-cantrips/</link>
+      <pubDate>Thu, 04 Apr 2024 20:47:59 -0400</pubDate><author>chasestevenspersonal&#43;bricks@gmail.com</author>
+      <guid>http://localhost:1313/post/2024-04-04-to-the-dear-readers-of-bricks-and-cantrips/</guid>
+      <description>Welcome! I hope you found it okay.&#xA;I would like to introduce you to Bricks &amp;amp; Cantrips, a blog dedicated to game design within card games. Popular topics will run the gamut from stalwarts of the genre like Magic the Gathering and Slay the Spire to the classics like Poker and Uno. If it has cards and is a game, we can take a look.&#xA;What is it about card games that makes them so fun to play?</description>
+    </item>
+    <item>
+      <title>Bricks &amp; Cantrips</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>chasestevenspersonal&#43;bricks@gmail.com</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>Welcome! I hope you found it okay.&#xA;I would like to introduce you to Bricks &amp;amp; Cantrips, a blog dedicated to game design within card games. Popular topics will run the gamut from stalwarts of the genre like Magic the Gathering and Slay the Spire to the classics like Poker and Uno. If it has cards and is a game, we can take a look.&#xA;What is it about card games that makes them so fun to play?</description>
+    </item>
+  </channel>
+</rss>
